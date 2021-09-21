@@ -1,0 +1,20 @@
+StaffID,Title,FirstName,LastName,DeptID,CaID,Joined,Left,Current,Salary,ContractType,SupervisorID
+12,Professor,Andrew,Brown,10,2,2016-09-21',2015-05-09',0,80420,Part time,5
+13,Mr,Mohsin,Burks,11,4,2018-06-15',NULL,1,21317,Full time,2
+14,Mrs,Jadene,Crawford,10,1,2010-06-15',NULL,1,56701,Full time,2
+15,Dr,Pola,Halliday,13,4,2010-04-04',2018-05-05',0,60000,Full time,5
+16,HRH,Heidi,Lloyd,12,1,2015-11-23',NULL,1,49060,Full time,20
+17,Professor,Oliwia,Carroll,10,3,2015-04-01',NULL,1,57210,Part time,4
+18,Mr,Ramone,Rose,11,1,2017-01-09',NULL,1,25200,Part time,6
+19,Ms,Eva-rose,Ashley,13,2,2006-01-07',NULL,1,60000,Full time,7
+20,Mrs,Charity,Mann,12,4,2006-01-07',NULL,1,50000,Part time,10
+21,Mrs,Animee,Amin,12,4,2007-10-13',2015-02-17',0,45610,Full time,6
+22,Mr,Ryan,Gray,10,1,2007-01-07',NULL,1,42040,Part time,2
+23,Professor,Niall,Cullinan,11,2,2016-09-21',2019-08-21',1,40400,Full time,6
+24,Mr,Tomas,Brooks,13,3,2005-06-15',NULL,1,35590,Full time,2
+25,Ms,Jasper,Thomas,14,1,2010-06-15',NULL,1,71923,Part time,20
+26,Lady,Amy,Henderson,12,4,2010-04-18',NULL,1,27500,Full time,4
+27,Mrs,Anna,Newman,15,1,2011-12-23',NULL,1,74690,Full time,25
+28,HRH,Eva,Ward,15,3,2011-12-08',NULL,1,27500,Part time,18
+29,Mrs,Lydra,Cook,11,2,2017-01-09',NULL,1,75458,Full time,25
+30,Mr,Christian,Clarke,10,1,2008-01-07',2020-07-10',0,41590,Full time,6

@@ -1,0 +1,6 @@
+RmID,Capacity,CaID,Location,Type,Status
+1,50,2,"MM Tower, 23 Lewis Avenue Belfast",Classroom,Open
+2,100,2,"CS Bldg, 24 Lewis Avenue Belfast",Classroom,Open
+3,75,2,"CS Bldg, 24 Lewis Avenue Belfast",Classroom,Open
+4,200,1,"Basement, 123 PalmBeach Street London",Hall,Ready to Open
+5,25,3,"1st Floor, 231 Raffles Street Singapore",Classroom,Under Repair

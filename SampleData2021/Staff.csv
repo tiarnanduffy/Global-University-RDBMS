@@ -1,0 +1,12 @@
+StaffID,Title,FirstName,LastName,DeptID,CaID,Joined,LeftD,Current,Salary,ContractType,SupervisorID
+1,Dr,Daniel,Dare,10,1,2005-05-13,2009-12-01,0,40000,Full time,5
+2,Lady,Sarah,Important,12,1,2005-06-15,NULL,1,38990,Part time,5
+3,Ms,Alice,Alive,10,1,2010-06-15,NULL,1,35600,Part time,2
+4,Dr,Xander,Mander,10,1,2010-04-18,NULL,1,45790,Part time,3
+5,Professor,Jenny,Generator,12,1,2011-12-23,NULL,1,68000,Full time,4
+6,Ms,Gemma,Hardasnails,11,2,2011-08-13,NULL,1,70000,Full time,2
+7,HRH,Prince,Caspian,12,1,2017-01-09,NULL,1,21000,Full time,5
+8,Mr,Brian,Knuckles,10,3,2008-01-07,2010-09-30,0,30000,Full time,6
+9,Mr,Bob,Punch,13,1,2008-01-07,NULL,1,29000,Full time,6
+10,Mrs,Natalie,Nononsense,10,1,2010-10-13,NULL,1,37890,Full time,6
+11,Mr,Euan,Young,11,1,2017-01-11,NULL,1,59000,Part time,7

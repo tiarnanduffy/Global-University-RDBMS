@@ -1,0 +1,197 @@
+StudentID,StudentName,DOB,Address,StudentType,Data_of_Start
+6,Mary Carson,1996-06-13,"189 Friedman Centers
+Frankmouth, TX 11828",Full Time,2017-06-15
+7,Alexander Murdock,1996-04-18,"029 Hart Haven
+Piercefurt, CT 52041",Full Time,2015-06-15
+8,Kareem Coker,1998-02-11,"4425 Lisa Station Apt. 314
+North Sean, ND 35879",Full Time,2017-06-15
+9,Harry Hurtado,1997-02-02,"204 Jennifer Island
+Cruzfort, KY 14095",Full Time,2016-06-15
+10,Jose Abbott,1996-09-28,"509 Powell Ways
+North Lauraside, SD 96141",Full Time,2016-06-30
+11,Daniel Willard,1997-04-09,"0637 Brittany Station
+North Christopherview, ND 79884",Full Time,2017-06-30
+12,Bruce Clifton,1998-03-26,"9742 Pineda Underpass
+New Hannah, VT 64767",Full Time,2017-06-30
+13,Sandra Pack,1997-09-23,"030 Renee Mills
+Allenchester, MN 72480",Full Time,2017-06-15
+14,Chris Jones,1997-12-02,"888 Nicholas Mission Suite 732
+Port Brandyfort, NY 64359",Full Time,2018-06-30
+15,Raymond Pauls,1997-09-04,"777 Cynthia Shoals
+South Stevenhaven, FL 44734",Full Time,2015-06-15
+16,Lori Nelson,1997-12-25,"5542 Harper Orchard Suite 665
+Maryland, KS 12781",Full Time,2016-06-15
+17,Jill Johnson,1998-03-20,"030 Steven Hill
+Lauratown, OH 92346",Full Time,2017-06-30
+18,Willie Dollar,1998-04-23,"1969 Shannon Crest Suite 673
+West Carl, LA 47836",Full Time,2016-06-15
+19,Larry Aldridge,1997-12-06,"395 Miles Point Suite 288
+Rhodesport, CT 49278",Full Time,2018-06-30
+20,Paul Smith,1997-06-03,"9733 Jeffrey Shoals Suite 939
+Robinsonchester, NE 48470",Full Time,2017-06-30
+21,George Corbett,1996-09-18,"651 Cervantes Heights
+Linport, WV 45669",Full Time,2017-06-15
+22,Tracee Lipka,1996-09-06,"05478 Powers Parks Apt. 631
+Teresafort, TN 80964",Full Time,2016-06-15
+23,Ronald Wheeler,1998-11-02,"501 Shelia Ways
+Dixonfurt, WA 86594",Full Time,2015-06-15
+24,Ricardo Glory,1998-07-16,"63660 Mark Landing Apt. 257
+Harrellstad, NE 95778",Full Time,2017-06-30
+25,John Yee,1996-09-05,"345 Stephanie Stream
+Hayesport, WI 29681",Full Time,2015-06-30
+26,Therese Tosh,1996-07-23,"996 Lewis Mount
+Deborahberg, KS 43729",Full Time,2015-06-15
+27,Judith Loughmiller,1998-03-09,"39253 Charles Rapids
+North Aaronburgh, NV 82141",Full Time,2018-06-30
+28,Leonard Sauer,1997-01-09,"78814 Rice Locks Suite 628
+West Steve, WY 04158",Full Time,2016-06-30
+29,Amber Brock,1996-11-12,"3713 Rich Square Suite 130
+Medinamouth, KY 62576",Full Time,2018-06-15
+30,Dorothy Davidson,1997-08-19,"653 Wilson Way
+Lake Williamshire, OR 82385",Full Time,2018-06-15
+31,Dexter Kowal,1996-10-03,"6628 James Way
+Nicoleport, ND 40378",Full Time,2016-06-30
+32,John Holt,1998-03-15,"0995 Victoria Squares Apt. 096
+Port Kathleen, IA 10776",Full Time,2017-06-30
+33,Kelly Stewart,1996-05-03,"9609 Troy Circle Suite 930
+Martinborough, NY 10050",Full Time,2015-06-15
+34,Mark Sears,1997-09-05,"3892 Jenkins Mall
+South Christopher, ID 15186",Full Time,2017-06-30
+35,Paul Blackaby,1996-12-20,"4765 Robertson Mews
+Simmonsside, OH 68471",Full Time,2016-06-30
+36,Mary Bronstein,1997-07-03,"338 Lisa Place Suite 307
+East Courtney, KY 86182",Full Time,2015-06-30
+37,Chris Mills,1997-11-13,"705 Nicole Cliffs
+Angelicaton, UT 87558",Full Time,2017-06-30
+38,Matthew Anderson,1997-05-04,"52905 Morrow Walks Suite 917
+South Susan, IL 91149",Full Time,2015-06-30
+39,Jennifer Alvarado,1997-12-31,"015 Riggs Forks Suite 171
+Lake Samantha, TN 66005",Full Time,2015-06-15
+40,Edward Hirsch,1998-08-11,"3165 Morgan Hill
+Jasonmouth, MI 03420",Full Time,2017-06-30
+41,Leon Adams,1998-12-15,"648 Lori Courts
+West Samantha, NY 61490",Full Time,2016-06-30
+42,Virginia Davis,1998-05-04,"837 Walker Hollow
+Kathyview, AR 78108",Full Time,2018-06-15
+43,Gene Hoover,1998-05-23,"82671 Sara Wells
+Lake Patriciamouth, AR 58770",Full Time,2016-06-30
+44,Janie Wilkinson,1998-07-19,"72020 Bruce Lane
+Vazquezmouth, NE 71932",Full Time,2018-06-15
+45,Phyllis Lei,1997-07-13,"788 Shannon Estate
+Annamouth, KS 64039",Full Time,2016-06-30
+46,Nicholas Keyes,1997-12-06,"06677 Oneal Junction
+Longview, TX 15099",Full Time,2017-06-15
+47,Victor Porter,1998-10-05,"USNS Johnson
+FPO AA 28424",Full Time,2015-06-30
+48,Kimberly Galindez,1998-09-19,"67334 Donald Village Suite 741
+New Ashleyshire, WA 38288",Full Time,2017-06-30
+49,Margaret Smith,1998-11-24,"5870 Christina Mountain
+Richardmouth, KS 58121",Full Time,2018-06-30
+50,Vera Park,1998-06-24,"79723 Marc Lodge Suite 906
+Taylorfurt, VT 51021",Full Time,2018-06-15
+51,Leigh Dillman,1998-09-26,"676 Whitney Mission Apt. 038
+East Allison, WI 12319",Full Time,2016-06-30
+52,Wayne Crout,1996-05-06,"76713 Tanner Village
+Simsland, PA 44112",Full Time,2015-06-15
+53,Isabelle Critchfield,1997-11-25,"683 Hernandez Pine Suite 708
+South Fernando, SC 22008",Full Time,2015-06-15
+54,Leslie Briseno,1998-11-19,"06660 Williams Isle Suite 497
+South Vickieview, CA 13599",Full Time,2015-06-30
+55,Brett Magano,1998-02-08,"55116 Lloyd Port Apt. 601
+Woodville, NY 91317",Full Time,2018-06-30
+56,Susan Wilmoth,1996-04-25,"4429 Marcia Centers Apt. 793
+West Justintown, VT 96301",Full Time,2018-06-15
+57,Erika Parks,1997-12-29,"392 Richard Light Suite 324
+Gomezmouth, CO 05875",Full Time,2015-06-15
+58,Deborah Ramirez,1998-12-21,"848 Freeman Viaduct Apt. 471
+East Christopher, WA 96511",Full Time,2017-06-15
+59,Jill Andrade,1996-10-19,"044 Thomas Throughway Suite 880
+New Katherinehaven, DC 44173",Full Time,2015-06-30
+60,David Silva,1996-10-21,"14674 Dickson Forks
+South Michael, MO 42051",Full Time,2016-06-30
+61,Willis Abraham,1997-09-26,"18569 John Courts
+North Megan, RI 15037",Full Time,2015-06-15
+62,Stanley Schiff,1996-12-16,"489 Howell Place Suite 072
+South Josephchester, IN 50275",Full Time,2018-06-30
+63,Olga Lew,1998-04-28,"9416 Joseph Valleys
+Lake James, CT 06872",Full Time,2017-06-15
+64,Belinda Xiong,1998-11-09,"63800 Taylor Fords
+Brownport, WY 08776",Full Time,2016-06-15
+65,Jean Whittenbeck,1998-04-26,"1449 Jenna Loaf
+Port Timothy, MO 20432",Full Time,2017-06-15
+66,George Johns,1997-08-25,"5431 Blair Dam Suite 930
+New Karen, KS 95352",Full Time,2017-06-30
+67,Tonya Toomey,1998-04-21,"5541 Thomas Expressway Apt. 794
+Rayville, OH 58296",Full Time,2015-06-30
+68,Wade Stolar,1997-08-26,"340 Brian Overpass
+Lopezberg, OK 64684",Full Time,2018-06-30
+69,Aimee Doctor,1998-11-03,"63162 Gonzalez Unions Apt. 544
+Josephtown, TN 89278",Full Time,2016-06-15
+70,Miguel Barrett,1997-06-02,"526 Melissa Stravenue Apt. 792
+Hansonview, RI 42563",Full Time,2015-06-15
+71,Esther Mulloy,1998-07-03,"1119 Joseph Motorway Suite 759
+South Jason, AR 39384",Full Time,2015-06-15
+72,John Rios,1998-09-19,"518 Pamela Brook
+Jenniferview, OR 67934",Full Time,2018-06-30
+73,Rose Stanley,1997-01-26,"03197 Debra Estate Apt. 267
+Elizabethview, NV 28490",Full Time,2017-06-30
+74,Billy Hayes,1997-04-21,"99023 Kimberly Villages
+Kyleburgh, HI 83782",Full Time,2016-06-15
+75,Carolina Gross,1998-06-14,"2018 Tricia Stream
+North Suzanneton, GA 60469",Full Time,2016-06-15
+76,Cynthia Patten,1996-07-19,"5014 Leach Pines
+Wrightborough, MA 46697",Full Time,2018-06-30
+77,Lewis Johnson,1998-07-06,"5591 Ball Shores Suite 541
+Walkermouth, IL 11895",Full Time,2018-06-15
+78,Amanda Dyer,1996-09-11,"516 Kathryn Hollow
+Lake Brianfort, SC 97706",Full Time,2015-06-15
+79,Pamela Corson,1998-10-08,"8454 Katherine Lights Suite 687
+South Juanshire, TX 04304",Full Time,2015-06-15
+80,Deloris Morrow,1998-08-24,"826 Rhonda Dale
+East Jeremy, MI 71179",Full Time,2018-06-15
+81,Mary Park,1997-07-27,"024 Cassidy Pike Suite 243
+Devonberg, MO 83640",Full Time,2015-06-15
+82,Michael Carr,1998-06-03,"63097 Tammy Heights Suite 487
+Amandafort, IL 59731",Full Time,2015-06-15
+83,Martha Peno,1998-08-18,"279 Richard Islands Suite 095
+Port Christopherview, DC 78917",Full Time,2016-06-15
+84,Virgil Rilley,1996-02-29,"850 Fritz Groves Apt. 444
+Williamshaven, WV 27300",Full Time,2015-06-15
+85,James Duran,1998-04-10,"659 Crystal Walk Suite 813
+Brandtberg, KS 68289",Full Time,2018-06-15
+86,Michael Peters,1997-06-11,"2176 Jones Views Apt. 951
+Lake Carl, ID 09351",Full Time,2018-06-30
+87,Jason Sibrel,1997-05-28,"28400 Rachel Isle
+North Danielle, MD 45100",Full Time,2015-06-15
+88,Alberta Coggan,1996-01-23,"523 Olivia Green Suite 130
+Lake Brittanymouth, OR 80798",Full Time,2018-06-15
+89,Richard Wilcox,1996-06-09,"4396 Stout Square
+Marybury, ME 98301",Full Time,2015-06-15
+90,Yvonne Tarver,1996-03-30,"3725 Manuel River
+Michelleside, TX 17037",Full Time,2015-06-15
+91,Leo Jennings,1998-10-02,"Unit 3562 Box 9200
+DPO AP 58546",Full Time,2015-06-30
+92,Darren Swank,1997-05-26,"3626 Burgess Roads Suite 201
+Pattersonchester, MT 05913",Full Time,2015-06-30
+93,Jeremy Clark,1998-07-12,"913 Gerald Shore
+Herreraview, ID 69394",Full Time,2018-06-30
+94,Robert Ackley,1998-10-22,"452 Jeffery Landing Suite 146
+Parkerland, CA 08768",Full Time,2017-06-30
+95,Neil Green,1998-04-08,"692 Amanda Lock
+East Judith, MN 53687",Full Time,2015-06-30
+96,Cynthia Davis,1998-11-19,"093 Alexandra Tunnel Suite 306
+South Marioburgh, NY 67552",Full Time,2015-06-15
+97,Owen Taylor,1997-05-26,"37850 Dawn Alley
+Byrdview, ID 64925",Full Time,2018-06-30
+98,Benny King,1996-01-17,"82762 Dean Hollow
+West Amy, CO 10942",Full Time,2018-06-30
+99,Danielle White,1996-08-27,"70506 Zachary Wells Suite 060
+South Glenntown, ID 23056",Full Time,2017-06-30
+100,Judith Booth,1996-11-06,"9697 Norris Creek
+Campbellmouth, VT 17555",Full Time,2015-06-15
+101,Linda Beltran,1997-01-01,"07303 Chen Rue
+South Todd, IN 45078",Full Time,2015-06-15
+102,Rebecca Thompson,1996-07-29,"318 Donna Island Apt. 495
+North Kyleview, NV 30167",Full Time,2017-06-30
+103,Carla Hull,1997-10-05,"38224 Smith Isle Suite 867
+East Steventown, NH 34973",Full Time,2015-06-15
